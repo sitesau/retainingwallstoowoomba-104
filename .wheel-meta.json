@@ -1,0 +1,22 @@
+{
+  "wheel_id": 725,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-104",
+  "project": "retaining-wall-contractors-toowoomba-diy-vs-professional-e6c371",
+  "parent_t1_ref": "retainingwallstoowoomba-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall contractors toowoomba diy vs professional",
+  "intended_url": "https://sitesau.github.io/retainingwallstoowoomba-104/",
+  "tier": "T2",
+  "writeback_nonce": "7a7148e6efc54c36",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-contractors-toowoomba-07b272f9efc0729aaf6aa2fe63.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this retaining wall contractors toowoomba guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
